@@ -1,21 +1,25 @@
-# 🚀 Khasim's Portfolio
+# 🚀 Shaik Khasim Peera's Futuristic Portfolio
 
-Welcome to my futuristic developer portfolio!  
-👨‍💻 Built with React + Tailwind CSS + Vite  
-💼 Showcasing my work in Web Dev, AI/ML, and Java DSA.
+Welcome to my personal developer portfolio!  
+I’m a self-taught developer passionate about Web Development, AI/ML, and Java DSA.
 
-## 🔗 Live Site
-[View Portfolio](https://your-deployed-link.vercel.app)
+## 🔗 Live Demo
+[View Portfolio](https://your-deploy-link.vercel.app)
 
-## 🛠️ Technologies Used
-- React.js
-- Tailwind CSS
-- Framer Motion
-- Formspree
+## 🛠️ Built With
+- React.js ⚛️
+- Tailwind CSS 🌬️
+- Framer Motion 🎞️
+- Vite ⚡
+- Formspree for contact 📬
 
-## 📬 Contact
-- 📧 shaikkhasimpeera90144@gmail.com
-- 📱 +91 9014473423
+## 📸 Preview Screenshot
+*(Add your portfolio screenshot here)*
 
-## 👇 Preview Screenshot
-![Portfolio Screenshot](link-to-screenshot.png)
+## 📫 Contact Me
+- **Email**: shaikkhasimpeera90144@gmail.com
+- **Phone**: +91 9014473423
+
+---
+
+⭐ Star this repo if you liked it!
