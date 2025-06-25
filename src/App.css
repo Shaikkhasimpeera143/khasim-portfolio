@@ -1,0 +1,8 @@
+/* App.css (optional if using Tailwind, can be empty or contain custom styles) */
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
